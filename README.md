@@ -1,2 +1,1 @@
-# Week-1
-Air quality prediction
+Air quality Index prediction model
